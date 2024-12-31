@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamtpg&label=Profile%20views&color=0e75b6&style=flat" alt="iamtpg" /> </p>
 
-- 🌱 I’m currently learning **OOP and some graphic libraries**
+- 🌱 I’m currently learning **OOP**
 
 - 📫 How to reach me **ltphu.dev@gmail.com**
 
